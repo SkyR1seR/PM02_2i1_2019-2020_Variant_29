@@ -1,0 +1,6 @@
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\bin\Debug\МДК_02.03.exe.config
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\bin\Debug\МДК_02.03.exe
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\bin\Debug\МДК_02.03.pdb
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\obj\Debug\МДК_02.03.csprojAssemblyReference.cache
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\obj\Debug\МДК_02.03.exe
+C:\Users\dommi\source\repos\МДК_02.03\МДК_02.03\obj\Debug\МДК_02.03.pdb
